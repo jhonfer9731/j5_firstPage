@@ -1,0 +1,9 @@
+body {
+    background-color: #1d4470c7;
+}
+
+.p5Canvas{
+    display: block;
+    padding: 0% 30%;
+    float: left;
+}
